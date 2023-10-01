@@ -1,4 +1,4 @@
-<img align="left" style="vertical-align: middle" width="120" height="120" src="https://raw.githubusercontent.com/FyraLabs/branding/logos/icon/logo-transp.svg">
+<img align="left" style="vertical-align: middle" width="150" height="150" src="https://raw.githubusercontent.com/FyraLabs/branding/logos/icon/logo-transp.svg">
 
 # Fyra Labs
 

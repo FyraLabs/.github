@@ -17,7 +17,7 @@ All of our products and projects are open source. Our primary projects are:
 ## 🚀 Community
 
 The Fyra community is more than just Fyra Labs. Our community (which includes us) is primary active on [Discord](https://discord.gg/5fdPuxTg5Q) and [Matrix](https://matrix.to/#/#hub:fyralabs.com).
-We also have accounts on [Mastodon/Fediverse]((https://fedi.fyralabs.com/@hq)) and [Twitter/X](https://twitter.com/teamfyralabs) for those who want an easy feed to follow updates on.
+We also have accounts on [Mastodon/Fediverse](https://fedi.fyralabs.com/@hq) and [Twitter/X](https://twitter.com/teamfyralabs) for those who want an easy feed to follow updates on.
 
 ## ⚒️ Contributing
 

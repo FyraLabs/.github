@@ -23,7 +23,7 @@ We also have accounts on [Mastodon/Fediverse](https://fedi.fyralabs.com/@hq) and
 
 ### Code
 
-All of our code is open and developed the the community. Have a feature or bug that you'd like to work on? Go for it. While we primarily track development on our GitHub issues, we also discuss development in our chats, so please join those too.
+All of our code is open and developed by the community. Have a feature or bug that you'd like to work on? Go for it. While we primarily track development on our GitHub issues, we also discuss development in our chats, so please join those too.
 
 ### Translations
 

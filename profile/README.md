@@ -12,7 +12,7 @@ All of our products and projects are open source. Our primary projects are:
 - [tauOS](https://github.com/tau-OS), a next-generation desktop operating system, converging human-centric design, seamless syncing capabilities, and an unbreakable core with everything you know and love about Linux.
 - [Chisel Operator](https://github.com/FyraLabs/chisel-operator), a Kubernetes service which bridges applications to the outside world using [Chisel](https://github.com/jpillora/chisel) tunnels, yes, even behind NAT. Originally made as an alternative to [Inlets](https://inlets.dev), after they moved to a closed model. 
 - [Terra](https://github.com/terrapkg), a high-quality community repository for Fedora, providing 1000+ essential packages not provided in the main repositories.
-- [Skiff Desktop for Linux](https://github.com/FyraLabs/skiff-desktop), a simple [libhelium]([url](https://github.com/tau-os/libhelium)) desktop app for [Skiff](https://skiff.com).
+- [Skiff Desktop (Linux)](https://github.com/FyraLabs/skiff-desktop), a simple [libhelium](https://github.com/tau-os/libhelium) desktop app for [Skiff](https://skiff.com), allowing you to use one of our favorite email services on a Linux desktop near you.
 - [Ultramarine Linux](https://github.com/Ultramarine-Linux), a Fedora distribution with pragmatic defaults that get out of your way, so you can focus on what's important to you.
 
 ## 🚀 Community

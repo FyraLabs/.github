@@ -9,15 +9,18 @@ While we work in a variety of fields, our current focus is currently within the 
 
 All of our products and projects are open source. Our primary projects are:
 
-- [tauOS](https://github.com/tau-OS), a next-generation desktop operating system, converging human-centric design, seamless syncing capabilities, and an unbreakable core with everything you know and love about Linux.
 - [Chisel Operator](https://github.com/FyraLabs/chisel-operator), a Kubernetes service which bridges applications to the outside world using [Chisel](https://github.com/jpillora/chisel) tunnels, yes, even behind NAT. Originally made as an alternative to [Inlets](https://inlets.dev), after they moved to a closed model. 
 - [Terra](https://github.com/terrapkg), a high-quality community repository for Fedora, providing 1000+ essential packages not provided in the main repositories.
 - [Ultramarine Linux](https://github.com/Ultramarine-Linux), a Fedora distribution with pragmatic defaults that get out of your way, so you can focus on what's important to you.
+- [Fyra Stack](https://github.com/FyraStack), an open source cloud VPS and colocation provider.
+- [SuzyQ Board](https://github.com/FyraLabs/suzyqboard), a PCB implementation of the SuzyQ used to access CCD on Chromebooks.
+- [Submarine](https://github.com/FyraLabs/submarine), an experimental bootloader for ChomeOS's depthcharge
+
 
 ## 🚀 Community
 
-The Fyra community is more than just Fyra Labs. Our community (which includes us) is primarily active on [Discord](https://discord.gg/5fdPuxTg5Q) and [Matrix](https://matrix.to/#/#hub:fyralabs.com).
-We also have accounts on [Mastodon/Fediverse](https://fedi.fyralabs.com/@hq) and [Twitter/X](https://twitter.com/teamfyralabs) for those who want an easy feed to follow updates on.
+The Fyra community is more than just Fyra Labs. Our community (which includes us) is primarily active on [Discord](https://discord.gg/5fdPuxTg5Q).
+We also have accounts on [Mastodon/Fediverse](https://fedi.fyralabs.com/@hq), [Twitter/X](https://twitter.com/teamfyralabs), and [Bluesky](https://bsky.app/profile/fyralabs.com) for those who want an easy feed to follow updates on.
 
 ## ⚒️ Contributing
 
